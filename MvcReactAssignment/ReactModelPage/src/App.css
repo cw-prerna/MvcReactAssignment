@@ -1,0 +1,476 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Container {
+  width: 500px;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  width: auto;
+  height: auto;
+  background-color: #ffffff;
+  align-content: center;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Rectangle {
+  width: 700px;
+  height: 56px;
+  background-color: #ffffff;
+}
+
+.MenubarShape {
+  width: 24px;
+  height: 24px;
+  justify-content: center;
+}
+
+.LogoImgShape {
+  padding-left: 20px;
+  width: 30%;
+  height: 100%;
+}
+
+.SearchShape {
+  width: 20%;
+  height: 40%;
+  justify-content: center;
+  padding-top: 20px;
+  float:right;
+}
+
+.LocationShape {
+  width: 20%;
+  height: 40%;
+  justify-content: center;
+  padding-top: 20px;
+  float:right;
+}
+
+.CarImage {
+  width: 360px;
+  height: auto;
+  mix-blend-mode: multiply;
+}
+.Bs6 {
+  padding: 5px;
+  width: fit-content;
+  height: 20px;
+  border-radius: 5px;
+  background-color: #bfebeb;
+  font-size: small;
+  color: #484848;
+  justify-content: center;
+  float: left;
+}
+
+.Group {
+  width: 15%;
+  height: 30px;
+  float: right;
+  padding-right: 10px;
+  z-index: -1;
+}
+.Swift {
+  z-index: -1;
+  width: 100%;
+}
+.ImgAndInfo {
+  width: 100%;
+}
+.Color{
+  align-items: center;
+  width: 25%;
+  float: left;
+}
+.Image{
+  align-items: center;
+  width: 25%;
+  float: left;
+}
+.Video{
+  align-items: center;
+  width: 25%;
+  float: left;
+}
+.View{
+  align-items: center;
+  width: 25%;
+  float: left;
+}
+.car-info {
+  font-size: small;
+  float: right;
+  padding-left: 1%;
+  justify-content: center;
+  width: 65%;
+}
+.info-icon{
+  padding-left: 2%;
+  height: 80%;
+  width: 27%;
+  justify-content: center;
+}
+.CarInformation {
+  width: 100%;
+}
+.RatingsAndReviews{
+  width: 100%;
+  /* height: 40%; */
+  /* height: fit-content; */
+}
+.Ratings {
+  width: 100%;
+}
+
+.Car-Name {
+  width: fit-content;
+  height: 40px;
+  font-family: Lato;
+  font-size: 80px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  justify-content: center;
+}
+.Path{
+  margin: auto;
+  width: fit-content;
+  margin-left: 25%;
+  float: left;
+}
+.star {
+  color:#00afa0;
+  height: 15px;
+  width: 14px;
+  padding-top: 13px;
+  padding-right: 7px;
+}
+.nv {
+  color: gainsboro;
+  height: 15px;
+  width: 14px;
+  padding-top: 13px;
+  padding-right: 7px;
+}
+
+.-Reviews {
+  width: 75px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  float: right;
+  padding-right: 20%;
+}
+
+.PriceDetails {
+  width: 360px;
+  /* height: fit-content; */
+}
+
+.Trial {
+  font-family: Lato-Bold;
+  font-size:18px;
+  /* letter-spacing: 2.25px; */
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+  padding-left: 65px;
+  padding-top: 10%;
+  width: fit-content;
+  float: left;
+  
+}
+.popUpContainer {
+  width: 100%;
+}
+
+.View-Price-Breakup {
+  padding-right: 65px;
+  float: right;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0288d1;
+  /* height: 16px; */
+}
+
+.popUpDisplay {
+  padding-left: 2%;
+  margin: 1px solid gray;
+  border-style: solid;
+  float: left;
+  width: 45%;
+}
+
+.tooltip{
+  float: right;
+  width: fit-content;
+  display: none;
+  z-index: -20px;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.tooltipText{
+  justify-content: center;
+  background-color: gray;
+  color: white;
+  padding: 3px;
+}
+
+.button{
+  width: 159px;
+  height: 32px;
+  border-radius: 3px;
+  border:solid 1px #00afa0;
+  background-color: #ffffff;
+}
+
+
+.Version {
+  padding-left: 16px;
+  width: 45px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #aaaaaa;
+  padding-top: 12px;
+ 
+
+}
+
+
+.version {
+  padding-left: 16px;
+  width: 82px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+  padding-top: 12px;
+  display: inline-block;
+ 
+}
+
+
+
+.Images {
+  width: 150px;
+  height: 60px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  text-decoration: none;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  position: relative;
+  display: inline-block;
+  padding-left: 60px;
+}
+
+
+.Images3 {
+  width: 150px;
+  height: 60px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  text-decoration: none;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  position: relative;
+  display: inline-block;
+  padding-left: 2px;
+}
+
+.Images2 {
+  width: 1000px;
+  height: 400px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  text-decoration: none;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  position: relative;
+  display: inline-block;
+  padding-left: 200px;
+}
+
+
+
+.price{
+  width: 99px;
+  height: 22px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+  text-align: center;
+  padding-left: 65px;
+  padding-top: 16px;
+  display: inline-block;
+
+}
+
+.pricebreakup{
+  width: 115px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #0288d1;
+
+}
+
+
+.onroad{
+  width: 137px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  text-align: center;
+  padding-left: 112px;
+  padding-top: 16px;
+
+
+}
+
+
+.emiDiv{
+  width: 328px;
+  height: 70px;
+  border-radius: 3px;
+  border: solid 1px #efefef;
+  background-color: #fbfbfb;
+  padding-left: 65px;
+}
+
+.Emi{
+  width: 89px;
+  height: 18px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #484848;
+  padding-left: 12px;
+  display: inline-block;
+ 
+
+}
+
+.years{
+  width: 66px;
+  height: 16px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6f6f6f;
+  padding-left: 12px;
+  display: inline-block;
+ 
+
+}

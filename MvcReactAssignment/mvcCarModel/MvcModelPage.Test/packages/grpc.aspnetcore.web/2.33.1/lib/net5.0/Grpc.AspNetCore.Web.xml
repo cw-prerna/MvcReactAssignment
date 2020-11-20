@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Grpc.AspNetCore.Web</name>
+    </assembly>
+    <members>
+        <member name="T:Grpc.AspNetCore.Web.DisableGrpcWebAttribute">
+            <summary>
+            Identifies an endpoint that doesn't support gRPC-Web.
+            </summary>
+        </member>
+        <member name="T:Grpc.AspNetCore.Web.EnableGrpcWebAttribute">
+            <summary>
+            Identifies an endpoint that supports gRPC-Web.
+            </summary>
+        </member>
+        <member name="T:Grpc.AspNetCore.Web.IGrpcWebEnabledMetadata">
+            <summary>
+            Represents gRPC-Web metadata used during request processing.
+            </summary>
+        </member>
+        <member name="P:Grpc.AspNetCore.Web.IGrpcWebEnabledMetadata.GrpcWebEnabled">
+            <summary>
+            Gets a flag indicating whether gRPC-Web is enabled.
+            </summary>
+        </member>
+        <member name="T:Grpc.AspNetCore.Web.Internal.Base64PipeReader">
+            <summary>
+            Reads and decodes base64 encoded bytes from the inner reader.
+            </summary>
+        </member>
+        <member name="T:Grpc.AspNetCore.Web.Internal.Base64PipeWriter">
+            <summary>
+            Writes bytes as base64 encoded to the inner writer.
+            </summary>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Builder.GrpcWebApplicationBuilderExtensions">
+            <summary>
+            Provides extension methods for <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/> to add gRPC-Web middleware.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Builder.GrpcWebApplicationBuilderExtensions.UseGrpcWeb(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Adds gRPC-Web middleware to the specified <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/>.
+            </summary>
+            <param name="builder">The <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/> to add the middleware to.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Builder.GrpcWebApplicationBuilderExtensions.UseGrpcWeb(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Builder.GrpcWebOptions)">
+            <summary>
+            Adds gRPC-Web middleware to the specified <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/>.
+            </summary>
+            <param name="builder">The <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/> to add the middleware to.</param>
+            <param name="options">The <see cref="T:Microsoft.AspNetCore.Builder.IApplicationBuilder"/> to add the middleware to.</param>
+            <returns>A reference to this instance after the operation has completed.</returns>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Builder.GrpcWebEndpointConventionBuilderExtensions">
+            <summary>
+            gRPC-Web extension methods for <see cref="T:Microsoft.AspNetCore.Builder.IEndpointConventionBuilder"/>.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Builder.GrpcWebEndpointConventionBuilderExtensions.EnableGrpcWeb``1(``0)">
+            <summary>
+            Enables gRPC-Web for the endpoint(s).
+            </summary>
+            <param name="builder">The endpoint convention builder.</param>
+            <returns>The original convention builder parameter.</returns>
+        </member>
+        <member name="M:Microsoft.AspNetCore.Builder.GrpcWebEndpointConventionBuilderExtensions.DisableGrpcWeb``1(``0)">
+            <summary>
+            Disable gRPC-Web for the endpoint(s).
+            </summary>
+            <param name="builder">The endpoint convention builder.</param>
+            <returns>The original convention builder parameter.</returns>
+        </member>
+        <member name="T:Microsoft.AspNetCore.Builder.GrpcWebOptions">
+            <summary>
+            Provides programmatic configuration for gRPC-Web.
+            </summary>
+        </member>
+        <member name="P:Microsoft.AspNetCore.Builder.GrpcWebOptions.DefaultEnabled">
+            <summary>
+            Gets or sets a flag indicating whether gRPC-Web is enabled by default for endpoints that have not specifically opted in or out.
+            </summary>
+        </member>
+    </members>
+</doc>

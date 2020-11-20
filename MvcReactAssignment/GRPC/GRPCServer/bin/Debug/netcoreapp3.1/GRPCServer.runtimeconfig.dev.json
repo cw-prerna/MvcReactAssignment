@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prerna.c\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\reactmvc\\MvcReactAssignment\\GRPC\\GRPCServer\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

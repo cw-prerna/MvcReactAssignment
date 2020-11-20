@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\mvcmodelpage.csproj",
+  "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\MvcModelPage.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,37 +14392,37 @@
   "RootNamespace": "mvc_assignment_model_page",
   "Documents": [
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\Shared\\Error.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\mvcmodelpage\\Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\reactmvc\\MvcReactAssignment\\mvcCarModel\\MvcModelPage\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }

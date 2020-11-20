@@ -6,14 +6,20 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Grpc.Net.Client;
+using System.Net.Http;
 
 namespace MvcModelPage
 {
     public class Program
     {
+    
         public static void Main(string[] args)
         {
+            
             CreateHostBuilder(args).Build().Run();
+
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

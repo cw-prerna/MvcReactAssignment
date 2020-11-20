@@ -1,0 +1,108 @@
+syntax = "proto3";
+
+option csharp_namespace = "GRPCServer";
+
+package details;
+
+service carDetails{
+    rpc getDetails(carName) returns (modelData);
+    rpc getCities(newcity) returns (citiesModel);
+    rpc getCitiesList(newcity) returns (ListCities);
+    rpc getVersionsList(VersionId) returns (ListVersions);
+    rpc getModelsList(compId) returns(ListModels);
+}
+
+
+message newcity{
+
+}
+
+message citiesModel {
+  repeated cities cities = 1;
+}
+
+message ListVersions{
+    repeated dbVersions dbVersions = 1;
+}
+
+message ListModels{
+    repeated dbModels dbModels = 1;
+}
+
+message ListCities{
+    repeated dbCity dbCity = 1;
+}
+
+message dbCity{
+    string city = 1;
+}
+
+message carName{
+    string name = 1;
+
+}
+
+message compId{
+    int32 companyId = 1;
+
+}
+
+message VersionId
+{
+    int32 companyId = 1;
+    int32 modelId = 2;
+
+}
+
+message dbModels
+{
+       int32 ModelId = 1;
+         string ModelName = 2;
+        int32 Rating = 3;
+        string ImageUrl = 4;
+}
+
+message dbVersions 
+{
+      int32 CompanyId = 1;
+       string CompanyName = 2;
+        int32 ModelId = 3;
+        string ModelName = 4;
+       int32 Rating = 5;
+       int32 VersionId = 6;
+       string ImageUrl = 7;
+       string VersionName = 8;
+        int32 Price = 9;
+
+}
+message modelData{
+
+    int32 carId = 1;
+    string makeName =2;
+    string modelName = 3;
+    string carName = 4;
+    int32 averagePrice = 5;
+    string mileage = 6;
+    string engine = 7;
+    string transmission = 8;
+    string fuelType = 9;
+    int32 seatingCapacity = 10;
+    string imgUrl = 11;
+    repeated carVersions versions = 12;
+    repeated cities newCities = 13;
+
+}
+
+
+
+
+message carVersions{
+    int32 carId = 1;
+    string carVersion=2;
+    int32 onRoadPrice = 3;
+}
+
+message cities{
+    int32 id = 1;
+    string city = 2;
+}

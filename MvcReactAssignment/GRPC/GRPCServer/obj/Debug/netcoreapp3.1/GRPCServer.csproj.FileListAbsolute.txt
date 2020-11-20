@@ -1,0 +1,174 @@
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.exe
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.deps.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.dev.json
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.pdb
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csprojAssemblyReference.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfoInputs.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfo.cs
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.RazorTargetAssemblyInfo.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CopyComplete
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.Manifest.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.xml
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.pdb
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.genruntimeconfig.cache
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\prerna.c\Downloads\Training2020-somil (1)\Training2020-somil\GRPCTraining\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.exe
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.deps.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.dev.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.pdb
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csprojAssemblyReference.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfoInputs.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfo.cs
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CoreCompileInputs.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.MvcApplicationPartsAssemblyInfo.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.RazorTargetAssemblyInfo.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CopyComplete
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.Manifest.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.xml
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.pdb
+D:\reactmvc\MvcReactAssignment\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.genruntimeconfig.cache
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\nuget.config
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\packages\microsoft.netcore.platforms\3.1.0\runtime.json
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Cache.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Logging.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.S3Operation.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Utils.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Consul.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\CWMemcache.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\FluentFTP.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.AmqpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.HttpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.UdpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\log4net.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\reactmvc\MvcReactAssignment\GRPCServer\bin\Debug\netcoreapp3.1\log4net.config
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\log4net.config
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\nuget.config
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\packages\microsoft.netcore.platforms\3.1.0\runtime.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.exe
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.deps.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.runtimeconfig.dev.json
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\GRPCServer.pdb
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Cache.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Logging.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.S3Operation.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AEPLCore.Utils.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Consul.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\CWMemcache.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\FluentFTP.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.AmqpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.HttpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Gelf4Net.UdpAppender.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\log4net.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csprojAssemblyReference.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfoInputs.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.AssemblyInfo.cs
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CoreCompileInputs.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.MvcApplicationPartsAssemblyInfo.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.RazorTargetAssemblyInfo.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.csproj.CopyComplete
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.Manifest.cache
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\staticwebassets\GRPCServer.StaticWebAssets.xml
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.dll
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.pdb
+D:\reactmvc\MvcReactAssignment\GRPC\GRPCServer\obj\Debug\netcoreapp3.1\GRPCServer.genruntimeconfig.cache

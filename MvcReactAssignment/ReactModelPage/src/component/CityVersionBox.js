@@ -1,36 +1,45 @@
 import React from "react";
 import '../App.css';
+import PropTypes from 'prop-types';
+import { connect } from "react-redux";
 
-export default class CityVersionBox extends React.Component
-{
-  constructor(props)
-  {
+import { mapDispatchToProps, mapStateToProps } from '../Actions/cityAction';
+
+
+class CityVersionBox extends React.Component {
+  constructor(props) {
     super(props);
     this.state = {
-      popupName : ['Version','City'],
-      selectedLocation : props.selectedLocation,
-      selectedVersion : props.selectedVersion
+      popupName: ['Version', 'City'],
+      selectedLocation: props.selectedLocation,
+      selectedVersion: props.selectedVersion,
+      id: props.id
     }
   }
 
   OpenLocationPopUp = () => {
-    this.props.changeEntityFlag(true,this.state.selectedLocation,"Location");
+    this.props.setCityVersion(true, this.state.selectedLocation, "Location");
   }
 
   OpenVersionPopUp = () => {
-    this.props.changeEntityFlag(true,this.state.selectedVersion,"Version");
+    this.props.setCityVersion(true, this.state.selectedVersion, "Version");
   }
 
- 
 
-  render()
-  {
+
+  render() {
+    const { selectedLocation, setCityVersion, selectedVersion } = this.props;
+
+    if (!setCityVersion || !selectedLocation || !selectedVersion) {
+      return null;
+    }
+
+
     const popups = this.state.popupName.map(popup => {
-      if (popup === "Version") 
-      {
+      if (popup === "Version") {
         return (
-          <div style= {{ display: "inline-block", margin: "0 20px" }}>
-            
+          <div style={{ display: "inline-block", margin: "0 20px" }}>
+
             <div className="version">{popup}</div>
             <button className="button" key={popup} onClick={this.OpenVersionPopUp} > {this.state.selectedVersion.versionName}</button>
 
@@ -38,12 +47,11 @@ export default class CityVersionBox extends React.Component
 
         )
       }
-      else
-      {
+      else {
         return (
-        
-          <div style= {{ display: "inline-block", margin: "0 20px" }}>
-            
+
+          <div style={{ display: "inline-block", margin: "0 20px" }}>
+
             <div className="version">{popup}</div>
             <button className="button" key={popup} onClick={this.OpenLocationPopUp} > {this.state.selectedLocation}</button>
 
@@ -51,13 +59,34 @@ export default class CityVersionBox extends React.Component
         )
       }
 
-    
+
     })
     return (
-      <div className="popUpContainer">
+      <div className="popUpContainer" test-data="popUpContainer">
         {popups}
       </div>
     );
   }
 
 }
+
+CityVersionBox.propTypes = {
+  selectedLocation: PropTypes.string,
+  setCityVersion: PropTypes.func,
+  selectedVersion: PropTypes.shape({
+    CompanyId: PropTypes.number,
+    CompanyName: PropTypes.string,
+    ModelId: PropTypes.number,
+    ModelName: PropTypes.string,
+    Rating: PropTypes.number,
+    VersionId: PropTypes.number,
+    ImageUrl: PropTypes.string,
+    VersionName: PropTypes.string,
+    Price: PropTypes.number
+  })
+}
+
+
+export default CityVersionBox;
+
+export const CityVersionBoxConnect = connect(mapStateToProps, mapDispatchToProps)(CityVersionBox);

@@ -1,11 +1,14 @@
+
+import { UPDATE_CITY } from '../Actions/types';
+
 const initState = {
     locationList: ['Mumbai', 'Pune', 'Navi Mumbai', 'Alwar', 'Goa', 'Chandigarh'],
     selectedLocation : 'Alwar'
 }
 
-export function RootReducer(state = initState, action) 
+export default function RootReducer(state = initState, action) 
 {
-    if (action.type === "UPDATE_CITY") 
+    if (action.type === UPDATE_CITY) 
     {
         const newState = 
         {

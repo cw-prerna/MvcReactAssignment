@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\Protos/CarDetails.cs \
+obj\Debug\netcoreapp3.1\Protos/CarDetailsGrpc.cs: Protos/carDetails.proto

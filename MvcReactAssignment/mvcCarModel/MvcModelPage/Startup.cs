@@ -13,6 +13,9 @@ using AEPLCore.Cache;
 using AEPLCore.Cache.Interfaces;
 using AEPLCore.Cache.Transcoder;
 using MvcModelPage.Cache;
+using Grpc.AspNetCore;
+using Grpc.AspNetCore.Web;
+using AEPLCore.Logging;
 
 namespace MvcModelPage
 {
@@ -25,13 +28,16 @@ namespace MvcModelPage
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            //string consulHost = "10.10.20.113";
+            services.AddControllersWithViews(); 
+            services.AddLogging();
+            string consulHost = Environment.GetEnvironmentVariable("CONSUL_HOST") ?? "10.10.20.113";
+            services.AddLogUpdater(consulHost + ":8500", Configuration["AppSettings:ModuleName"]);
             services.AddSingleton<ICarData, CarDataRepository>();
             services.AddSingleton<ICarDataCache, CarDataCache>();
-            services.AddCacheConfiguration(Configuration);
+            services.AddCacheConfiguration(Configuration);     
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,12 +54,13 @@ namespace MvcModelPage
             app.UseStaticFiles();
 
             app.UseRouting();
+             app.UseGrpcWeb(new GrpcWebOptions { DefaultEnabled = true });
 
             app.UseCors(x => x
                 .AllowAnyMethod()
                 .AllowAnyHeader()
-                .SetIsOriginAllowed(origin => true) // allow any origin
-                .AllowCredentials()); // allow credentials
+                .SetIsOriginAllowed(origin => true) 
+                .AllowCredentials());
 
             app.UseAuthorization();
 
